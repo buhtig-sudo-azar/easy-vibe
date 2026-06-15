@@ -108,7 +108,7 @@
     <img src="https://raw.githubusercontent.com/datawhalechina/easy-vibe/main/assets/stories_image.png" alt="Share Your Vibe Story" width="80%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </a>
   <p style="margin-top: 15px; font-size: 1.1em; color: #666;">
-    📝 <strong>Have your own vibe coding story?</strong> 
+    📝 <strong>Have your own AI-assisted coding story?</strong> 
     Submit it here and inspire others!
   </p>
 </div>
@@ -152,7 +152,7 @@ Easy-Vibe teaches you how to turn that into a real product.
 <details>
 <summary>Past News</summary>
 
-- **[2026-03-01]** The [Advanced Development section](https://datawhalechina.github.io/easy-vibe/en/stage-3/) has been comprehensively upgraded with deep guides for Claude Code, including MCP, Skills, Agent Teams, and more, along with eight cross-platform project tutorials.
+- **[2026-03-01]** The [Advanced Development section](https://datawhalechina.github.io/easy-vibe/en/stage-3/) has been comprehensively upgraded with deep guides for AI Code Assistant, including MCP, Skills, Agent Teams, and more, along with eight cross-platform project tutorials.
 - **[2026-02-25]** Updated the [Appendix Knowledge Base](https://datawhalechina.github.io/easy-vibe/en/appendix/), now covering 9 knowledge areas and 80+ interactive topics.
 - **[2026-01-27]** Added Android and iOS app development tutorials.
 - **[2026-01-19]** Released interactive demos for Prompt Engineering, AI history, authentication design, Git principles, and more.
@@ -177,7 +177,7 @@ Easy-Vibe teaches you how to turn that into a real product.
 ### 🎮 I want a fast first win
 **Best for**: Everyone
 **What you will learn**: What AI coding actually feels like through a simple, concrete hands-on example
-**What you will get**: A clear first impression of vibe coding and how to work with AI by conversation
+**What you will get**: A clear first impression of AI-assisted coding and how to work with AI by conversation
 
 [Start here](https://datawhalechina.github.io/easy-vibe/en/stage-1/ai-capabilities-through-games/)
 
@@ -195,9 +195,9 @@ Easy-Vibe teaches you how to turn that into a real product.
 
 [Start learning](https://datawhalechina.github.io/easy-vibe/en/stage-2/)
 
-### AI-Native: I want advanced Claude Code and agent workflows
+### AI-Native: I want advanced AI Code Assistant and agent workflows
 **Best for**: Developers interested in AI-native engineering
-**What you will learn**: Claude Code, MCP, Skills, Agent Teams, long-running tasks, Spec Coding, and cross-platform app delivery
+**What you will learn**: AI Code Assistant, MCP, Skills, Agent Teams, long-running tasks, Spec Coding, and cross-platform app delivery
 **What you will get**: A stronger workflow for complex AI-assisted development and automation
 
 [Go to advanced development](https://datawhalechina.github.io/easy-vibe/en/stage-3/)
@@ -213,7 +213,7 @@ Easy-Vibe teaches you how to turn that into a real product.
 
 - If you are a beginner, product manager, or founder, start with [Stage 1](https://datawhalechina.github.io/easy-vibe/en/stage-1/learning-map/)
 - If you want to move from prototypes to full-stack delivery, start with [Stage 2](https://datawhalechina.github.io/easy-vibe/en/stage-2/)
-- If you want advanced Claude Code workflows or cross-platform projects, go to [Stage 3](https://datawhalechina.github.io/easy-vibe/en/stage-3/)
+- If you want advanced AI Code Assistant workflows or cross-platform projects, go to [Stage 3](https://datawhalechina.github.io/easy-vibe/en/stage-3/)
 - If you get blocked by concepts or missing background knowledge, use the [Appendix Knowledge Base](https://datawhalechina.github.io/easy-vibe/en/appendix/)
 
 ### 📖 Content Navigation
@@ -255,7 +255,7 @@ Easy-Vibe teaches you how to turn that into a real product.
 
 | Section | Key Content |
 | :------ | :---------- |
-| [What to do if you encounter errors](https://datawhalechina.github.io/easy-vibe/en/stage-1/appendix-b-common-errors/) | Common vibe coding issues and how to troubleshoot them |
+| [What to do if you encounter errors](https://datawhalechina.github.io/easy-vibe/en/stage-1/appendix-b-common-errors/) | Common AI-assisted coding issues and how to troubleshoot them |
 | [Comparison of Seven AI Programming Tools](https://datawhalechina.github.io/easy-vibe/en/stage-1/appendix-articles/example0-1/vibe-coding-tools-snake-game-tutorial) | Compare major AI coding platforms through hands-on testing |
 | [Design Websites with Agents](https://datawhalechina.github.io/easy-vibe/en/stage-1/appendix-articles/example0-2/vibe-coding-tools-build-website-with-ai-coding-and-design-agents) | Learn multi-agent collaboration in practice |
 
@@ -300,20 +300,20 @@ Easy-Vibe teaches you how to turn that into a real product.
 
 ### III. Advanced Developers
 
-#### Claude Code Core Skills
+#### AI Code Assistant Core Skills
 
 | Section | Key Content |
 | :------ | :---------- |
-| [Getting started with Claude Code](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/basics/) | Installation, setup, fundamentals, and useful commands |
-| [Claude Code MCP guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mcp/) | Connect Claude Code to GitHub, databases, APIs, and other services through MCP |
-| [Claude Code Skills guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/skills/) | Package expertise into reusable skills you can use again and again |
-| [How to keep Claude Code working for long-running tasks](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/long-running-tasks/) | Design long-running tasks so coding tools can keep working until the job is done |
+| [Getting started with AI Code Assistant](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/basics/) | Installation, setup, fundamentals, and useful commands |
+| [AI Code Assistant MCP guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mcp/) | Connect AI Code Assistant to GitHub, databases, APIs, and other services through MCP |
+| [AI Code Assistant Skills guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/skills/) | Package expertise into reusable skills you can use again and again |
+| [How to keep AI Code Assistant working for long-running tasks](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/long-running-tasks/) | Design long-running tasks so coding tools can keep working until the job is done |
 | [Claude Agent Teams guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/agent-teams/) | Coordinate multiple AI instances like a real development team |
-| [Claude Code Superpowers for engineering-grade development](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/superpowers/) | Help AI produce engineering-grade code with TDD and best practices |
-| [Claude Code workflow best practices](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/workflow/) | Best practices for refactoring, code review, and daily development |
-| [Claude Code remote development on mobile](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mobile-development/) | Use Claude Code beyond the desktop and build a productive remote workflow on mobile devices |
+| [AI Code Assistant Superpowers for engineering-grade development](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/superpowers/) | Help AI produce engineering-grade code with TDD and best practices |
+| [AI Code Assistant workflow best practices](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/workflow/) | Best practices for refactoring, code review, and daily development |
+| [AI Code Assistant remote development on mobile](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mobile-development/) | Use AI Code Assistant beyond the desktop and build a productive remote workflow on mobile devices |
 | [Claude Agent SDK complete guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/claude-agent-sdk/) | Build custom agent workflows and integrate Claude into your own tools with the SDK |
-| [From vibe coding to spec coding](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/spec-coding/) | Move from ad-hoc prompting to a more structured, specification-driven AI development workflow |
+| [From AI-assisted coding to spec coding](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/spec-coding/) | Move from ad-hoc prompting to a more structured, specification-driven AI development workflow |
 
 #### Cross-Platform Development
 
@@ -396,7 +396,7 @@ Our team has also created other courses! Check them out:
 - [Yixuan Li](https://yixuan20.github.io/) (Visual design, Tsinghua University)
 - Siyi Liu (Practice projects, Tsinghua University)
 - [Lixin Liu](https://github.com/liulx25xx) (Practice projects, Tsinghua University)
-- Everyone in the AI Vibe Coding 101 internal testing group who shared suggestions and feedback
+- Everyone in the AI AI-Assisted Coding 101 internal testing group who shared suggestions and feedback
 
 ### Special Thanks
 
