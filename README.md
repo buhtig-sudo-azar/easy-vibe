@@ -152,7 +152,6 @@ Easy-Vibe teaches you how to turn that into a real product.
 <details>
 <summary>Past News</summary>
 
-- **[2026-03-02]** 🦞 **OpenClaw and AI Agent friendly support**: Added `llms.txt` so OpenClaw, Claude, Cursor, Trae, and other AI agents can quickly understand the repository structure and find the right tutorial content.
 - **[2026-03-01]** The [Advanced Development section](https://datawhalechina.github.io/easy-vibe/en/stage-3/) has been comprehensively upgraded with deep guides for Claude Code, including MCP, Skills, Agent Teams, and more, along with eight cross-platform project tutorials.
 - **[2026-02-25]** Updated the [Appendix Knowledge Base](https://datawhalechina.github.io/easy-vibe/en/appendix/), now covering 9 knowledge areas and 80+ interactive topics.
 - **[2026-01-27]** Added Android and iOS app development tutorials.
@@ -358,7 +357,7 @@ Easy-Vibe teaches you how to turn that into a real product.
 
 ### Modern approach
 
-In an AI IDE chat window such as VS Code, Cursor, or Trae, you can simply say:
+In your IDE, you can simply say:
 
 ```text
 Please help me run this project locally.
