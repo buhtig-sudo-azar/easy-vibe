@@ -312,7 +312,7 @@ Easy-Vibe teaches you how to turn that into a real product.
 | [AI Code Assistant Superpowers for engineering-grade development](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/superpowers/) | Help AI produce engineering-grade code with TDD and best practices |
 | [AI Code Assistant workflow best practices](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/workflow/) | Best practices for refactoring, code review, and daily development |
 | [AI Code Assistant remote development on mobile](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mobile-development/) | Use AI Code Assistant beyond the desktop and build a productive remote workflow on mobile devices |
-| [AI Agent SDK complete guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/ai-agent-sdk/) | Build custom agent workflows and integrate Claude into your own tools with the SDK |
+| [AI Agent SDK complete guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/ai-agent-sdk/) | Build custom agent workflows and integrate AI assistants into your own tools with the SDK |
 | [From AI-assisted coding to spec coding](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/spec-coding/) | Move from ad-hoc prompting to a more structured, specification-driven AI development workflow |
 
 #### Cross-Platform Development
