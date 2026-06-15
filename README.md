@@ -308,11 +308,11 @@ Easy-Vibe teaches you how to turn that into a real product.
 | [AI Code Assistant MCP guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mcp/) | Connect AI Code Assistant to GitHub, databases, APIs, and other services through MCP |
 | [AI Code Assistant Skills guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/skills/) | Package expertise into reusable skills you can use again and again |
 | [How to keep AI Code Assistant working for long-running tasks](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/long-running-tasks/) | Design long-running tasks so coding tools can keep working until the job is done |
-| [Claude Agent Teams guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/agent-teams/) | Coordinate multiple AI instances like a real development team |
+| [AI Agent Teams guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/agent-teams/) | Coordinate multiple AI instances like a real development team |
 | [AI Code Assistant Superpowers for engineering-grade development](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/superpowers/) | Help AI produce engineering-grade code with TDD and best practices |
 | [AI Code Assistant workflow best practices](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/workflow/) | Best practices for refactoring, code review, and daily development |
 | [AI Code Assistant remote development on mobile](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/mobile-development/) | Use AI Code Assistant beyond the desktop and build a productive remote workflow on mobile devices |
-| [Claude Agent SDK complete guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/claude-agent-sdk/) | Build custom agent workflows and integrate Claude into your own tools with the SDK |
+| [AI Agent SDK complete guide](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/ai-agent-sdk/) | Build custom agent workflows and integrate Claude into your own tools with the SDK |
 | [From AI-assisted coding to spec coding](https://datawhalechina.github.io/easy-vibe/en/stage-3/core-skills/spec-coding/) | Move from ad-hoc prompting to a more structured, specification-driven AI development workflow |
 
 #### Cross-Platform Development
